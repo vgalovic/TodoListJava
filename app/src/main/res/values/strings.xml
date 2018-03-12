@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="add_task">Add task</string>
+    <string name="textview">TextView</string>
+    <string name="done">Done</string>
+    <string name="name">Name</string>
+    <string name="delete">delete</string>
+</resources>
